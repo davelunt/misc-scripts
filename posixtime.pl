@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 
-# This is a script to time how long it takes your program to complete
+# This is a script to time how long it takes your program to complete.
 # Insert your code into the space occupied by # Script goes here # text
 # It should report in a user friendly manner the time taken
 
